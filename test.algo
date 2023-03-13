@@ -1,0 +1,7 @@
+FUNCTION isPal(parameters) : BOOLEAN
+VAR
+    set_declarations
+BEGIN
+    set_instructions
+    RETURN value ;
+END
